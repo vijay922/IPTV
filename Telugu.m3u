@@ -22,3 +22,11 @@ http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/11511
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/192185
 #EXTINF:-1,IN: T News
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/193024
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN: STAR MOVIES (FHD)" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIES (FHD)
+http://livetvbox.live:8080/live/7878/7878/9384.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI COMEDY HD
+http://livetvbox.live:8080/live/7878/7878/9042.ts
+#EXTINF:-1,IN: Gemini_TV_HD
+https://sports247.eu.org/app/play.php?cid=Gemini_TV_HD&id=897
+#EXTINF:-1,IN: Zee_Telugu
+https://sports247.eu.org/app/play.php?cid=Zee_Telugu&id=638
