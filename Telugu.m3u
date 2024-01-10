@@ -30,3 +30,110 @@ http://livetvbox.live:8080/live/7878/7878/9042.ts
 https://sports247.eu.org/app/play.php?cid=Gemini_TV_HD&id=897
 #EXTINF:-1,IN: Zee_Telugu
 https://sports247.eu.org/app/play.php?cid=Zee_Telugu&id=638
+#EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
+
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/938.ts
+
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="LIFESTYLE", ETV PLUS
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/937.ts
+
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="INFOTAINMENT", DD Saptagiri
+http://sansat.net:25461/02024773939334/02024773939334/95854
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="INFOTAINMENT", DISCOVERY HD
+http://sansat.net:25461/02024773939334/02024773939334/95855
+
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="ENTERTAINMENT", STAR MAA HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
+
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="ENTERTAINMENT", STAR MAA MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/9015.ts
+
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="ENTERTAINMENT", STAR MAA GOLD HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
+
+#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="MUSIC",Star Maa Music
+ http://livetvbox.live:8080/live/Anne/Anne/57772.ts
+
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="ENTERTAINMENT", Gemini TV HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/928.ts
+
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="MOVIES", Gemini Movies HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/930.ts
+
+#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="ENTERTAINMENT", Gemini Life
+http://watchindia.net:8880/live/varghesekunju62/308678sher/931.ts
+
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="ENTERTAINMENT", Gemini Comedy
+http://watchindia.net:8880/live/varghesekunju62/308678sher/971.ts
+
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="MUSIC", GEMINI MUSIC HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/929.ts
+
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="ENTERTAINMENT", Zee Cinemalu HD
+http://livetvbox.live:8080/live/Anne/Anne/98896.ts
+
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", Zee Telugu HD
+http://watchindia.net:8880/live/12171/04170628/940.ts
+
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS",SVBC 3 
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS",SVBC 4 
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Sri Venkateswara Bhakti Channel
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="",10 TV
+http://watchindia.net:8880/live/varghesekunju62/308678sher/981.ts
+
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="",ABN Andhra Jyothi
+http://watchindia.net:8880/live/varghesekunju62/308678sher/980.ts
+
+#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="",Bhakti TV
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116693
+
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="CVR News" tvg-logo="https://watchindia.net/images/channels/telugu/CVR_News.png" group-title="",CVR News
+http://watchindia.net:8880/live/varghesekunju62/308678sher/975.ts
+
+#EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://watchindia.net/images/channels/telugu/DD_Saptagiri.png" group-title="",DD Saptagiri
+http://watchindia.net:8880/live/varghesekunju62/308678sher/974.ts
+
+#EXTINF:-1 tvg-id="vissatv.in" tvg-name="Vissa TV" tvg-logo="https://watchindia.net/images/channels/telugu/Vissa_TV.png" group-title="",Vissa TV
+http://sansat.net:25461/02029020981254/02029020981254/95881
+
+#EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="",NTV News
+https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
+
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" group-title=",Raj Musix Telugu
+http://watchindia.net:8880/live/varghesekunju62/308678sher/957.ts
+
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="Raj News Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_News.png" group-title="",Raj News Telugu
+http://watchindia.net:8880/live/varghesekunju62/308678sher/956.ts
+
+#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="",Sakshi TV
+http://watchindia.net:8880/live/varghesekunju62/308678sher/955.ts
+
+#EXTINF:-1 tvg-id="sony.yay.in" tvg-name="Sony Yay Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="",Sony Yay Telugu
+http://watchindia.net:8880/live/varghesekunju62/308678sher/2126.ts
+
+#EXTINF:-1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="",T News
+http://starshare.live:8080/live/7263417185/1718572634/9049.ts
+
+#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" group-title="",Thanthi TV
+http://watchindia.net:8880/live/varghesekunju62/308678sher/947.ts
+
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="",TV9
+http://watchindia.net:8880/live/varghesekunju62/308678sher/945.ts
+
+#EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-logo="https://i.ibb.co/r7VrjKV/Zee-Telugu-News-2022-1.png" group-title="News", Zee Telugu News 
+https://ythls.onrender.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=": Sony_BBC_Earth_HD_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="", Sony_BBC_Earth_HD_Telugu
+http://humiptv.live:8080/live/jeremy/jeremy/223.ts
